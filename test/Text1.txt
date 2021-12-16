@@ -1,0 +1,4 @@
+Hello!!! Welcome to 'text1.txt' file.
+This is a sample text.
+good luck!
+Append this text to this file
